@@ -6,6 +6,8 @@
 
 老薛主机拥有遍布全球的优质机房，包括中国香港、美国洛杉矶、美国堪萨斯和中国郑州等多个节点，采用CN2优质线路和BGP优化网络，为用户提供稳定高速的网站托管服务  。公司连续3年荣获主机点评网"十佳口碑主机商"称号，美国1号主机更是获得"年度最佳虚拟主机"奖项 。
 
+<img width="2554" height="1160" alt="image" src="https://github.com/user-attachments/assets/a6ff9533-56ab-43ec-bd36-f0fc5f2c71f8" />
+
 ## 老薛主机官网地址
 
 老薛主机官网: [https://www.laoxuehost.com](https://my.laoxuehost.com/aff.php?aff=12502)
